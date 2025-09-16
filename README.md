@@ -1,4 +1,4 @@
-# AlphaFold batch inference with Vertex AI Pipelines
+# Hybrid AI Pipeline Orchestrator                                                                                                    
 
 This repository compiles prescriptive guidance and code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. 
 =
