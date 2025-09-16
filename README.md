@@ -1,12 +1,11 @@
 # AlphaFold batch inference with Vertex AI Pipelines
 
 This repository compiles prescriptive guidance and code samples demonstrating how to operationalize AlphaFold batch inference using Vertex AI Pipelines. 
-
-Code sample base on v2.3.2 of AlphaFold.
+=
 
 For protein viewer in Alphafold Portal we're using 3Dmol CDN binary which licensed under BSD 3-Clause License.
 
-Note: Alphafold Portal README will be available in the same repository [here](https://github.com/GoogleCloudPlatform/vertex-ai-alphafold-inference-pipeline/blob/alphafold-portal/env-setup-portal/README.md).
+========================================================================================================================================================================'
 
 ## Solutions architecture overview
 
@@ -237,6 +236,6 @@ cd ${TERRAFORM_RUN_DIR}
 terraform -chdir="${TERRAFORM_RUN_DIR}" destroy
 ```
 
-## What Next?
+
 
 Check out Alphafold Portal (User Interface) for Vertex AI Alphafold Inference Pipeline installation guide [here](https://github.com/GoogleCloudPlatform/vertex-ai-alphafold-inference-pipeline/blob/alphafold-portal/env-setup-portal/README.md).
